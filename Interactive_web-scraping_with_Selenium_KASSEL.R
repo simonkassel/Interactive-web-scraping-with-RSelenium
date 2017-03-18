@@ -47,7 +47,7 @@ read_data <- function(csv.link){
 }
 
 # Link to condo dataset csv
-rittenhouse <- "https://raw.githubusercontent.com/MUSA-620-Fall-2017/MUSA-620-Week-3/master/rittenhouse-condos.csv"
+rittenhouse <- "https://raw.githubusercontent.com/simonkassel/Interactive-web-scraping-with-RSelenium/master/rittenhouse-condos.csv"
 
 # read data
 data <- read_data(rittenhouse)
